@@ -1,5 +1,4 @@
-# Kullan-c-_Giris-User_Login
-# Kullanıcı Girişi Uygulaması
+# Kullanıcı Girişi (User_Login) Uygulaması
 
 Bu proje, basit bir kullanıcı girişi ve yeni kullanıcı oluşturma uygulamasını içerir. Tkinter kütüphanesi kullanılarak geliştirilmiştir.
 
